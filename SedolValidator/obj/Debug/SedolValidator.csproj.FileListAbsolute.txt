@@ -1,0 +1,6 @@
+C:\Users\Aashritha.Kolluri\source\repos\SedolValidator\bin\Debug\SedolValidator.exe.config
+C:\Users\Aashritha.Kolluri\source\repos\SedolValidator\bin\Debug\SedolValidator.exe
+C:\Users\Aashritha.Kolluri\source\repos\SedolValidator\bin\Debug\SedolValidator.pdb
+C:\Users\Aashritha.Kolluri\source\repos\SedolValidator\obj\Debug\SedolValidator.csproj.CoreCompileInputs.cache
+C:\Users\Aashritha.Kolluri\source\repos\SedolValidator\obj\Debug\SedolValidator.exe
+C:\Users\Aashritha.Kolluri\source\repos\SedolValidator\obj\Debug\SedolValidator.pdb
